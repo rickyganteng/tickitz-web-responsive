@@ -1,4 +1,4 @@
-<h1 align='center'>Vue JS - #nama_projek</h1>
+<h1 align='center'>#nama_projek</h1>
   <p align="center">
     <a href="link_deploy">View Demo</a>
     ·
@@ -22,5 +22,7 @@
 
 1. Download this Project or you can type `git clone #link_git`
 2. Open app's directory with your browser
+
+## License
 
 © [Bagus Tri Harjanto](https://github.com/bagusth15/)
