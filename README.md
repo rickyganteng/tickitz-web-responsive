@@ -7,7 +7,7 @@
     <a href="https://https://github.com/Bagusth15/tickitz-web-responsive/pulls">Request Feature</a>
   </p>
 
-![Image Banner](https://raw.githubusercontent.com/arkbootcamp/week7-web6-intermediateFrontend/main/image_banner.jpg)
+![Image Banner](https://raw.githubusercontent.com/Bagusth15/tickitz-web-responsive/main/readme-banner.png)
 
 ## About The Project
 
